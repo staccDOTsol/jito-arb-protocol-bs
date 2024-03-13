@@ -1,0 +1,38 @@
+[
+  {
+    "label": "production",
+    "cluster": "mainnet",
+    "program": "MFv2hWf31Z9kbCa1snEPYctwafyhdvnV7FZnsebVacA",
+    "group": "4qp6Fx6tnZkY5Wropq9wUYgtFxXKwE6viZxFHg3rdAG8"
+  },
+  {
+    "label": "alpha",
+    "cluster": "mainnet",
+    "program": "yyyxaNHJP5FiDhmQW8RkBkp1jTL2cyxJmhMdWpJfsiy",
+    "group": "7xNRPf4qqgDAkvDEgkRuC4SevR1RUxzosoRb7GsaVsqa"
+  },
+  {
+    "label": "mainnet-test-1",
+    "cluster": "mainnet",
+    "program": "MFv2hWf31Z9kbCa1snEPYctwafyhdvnV7FZnsebVacA",
+    "group": "CWqJj49NPUGE7Y18QuKcJCC6vEyspCj91oKgECyfxepR"
+  },
+  {
+    "label": "staging",
+    "cluster": "mainnet",
+    "program": "MFv2hWf31Z9kbCa1snEPYctwafyhdvnV7FZnsebVacA",
+    "group": "4qp6Fx6tnZkY5Wropq9wUYgtFxXKwE6viZxFHg3rdAG8"
+  },
+  {
+    "label": "dev.1",
+    "cluster": "devnet",
+    "program": "neetcne3Ctrrud7vLdt2ypMm21gZHGN2mCmqWaMVcBQ",
+    "group": "2eophx2kdM71vgKQnZXmA7GGCVZ1voRMxU2F4Gcournb"
+  },
+  {
+    "label": "dev",
+    "cluster": "devnet",
+    "program": "A7vUDErNPCTt9qrB6SSM4F6GkxzUe9d8P3cXSmRg4eY4",
+    "group": "52NC7T3NTPFFwoxJDFk9mbKcA7675DJ39H1iPNz5RjSV"
+  }
+]
